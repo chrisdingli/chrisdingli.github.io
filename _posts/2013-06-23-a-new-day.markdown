@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "A new day"
+date:   2013-06-23 16:40:00
+categories: 
+---
+
+Hello, world!
+
+This blog post will be of little importance to anyone but myself. I am writing with the intent of being much more public with my creative elements in both development and graphic design.
+
+I have been toying with the notion of web development since I was a child of 9, when I started learning HTML to improve my Neopets personal page. For obvious reasons my work back then was never impressive or even interesting by any standards, but I continued on my quest to learn about this fascinating global network. Throughout my time in school I had one friend, Nick, who I had considered my rival. We spent a lot of time trying to produce work that was better than the other's. It was during this period that my skills developed most rapidly.
+
+It was when I shared my experiences with others that I found myself determined to learn even more, so that is what this space will be - A place for me to share what I experience and discover in the areas of:
+* Web and interaction design
+* Web and application development
+* Illustrations
+* Photography
+
+I am very fond of the [Laravel 4](http://laravel.com) PHP framework and love using this as my primary coding framework. I am also learning Ruby on the side and produced [PixelHoldr](http://pixelholdr.com) as a learning exercise. I will write a follow up post on using PixelHoldr at a later date.
+
+I hope that these posts may prove useful to someone down the road.
+
+If you would like to get in touch, hit me up on Twitter [@chrisdingli](http://twitter.com/chrisdingli)
