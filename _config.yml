@@ -1,2 +1,25 @@
-name: Your New Jekyll Site
-pygments: true
+title:            Christopher Dingli's Place of Internet
+description:      My explorations in creativity and development
+url:              http://chrisdingli.com
+signoff:          Christopher Dingli
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         All Posts
+    url:          /
+  - name:         Email
+    url:          mailto:cldingli@gmail.com
+    external:     true
+  - name:         Twitter
+    url:          http://twitter.com/chrisdingli
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/chrisdingli
+    external:     true
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
